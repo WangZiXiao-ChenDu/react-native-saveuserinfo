@@ -1,0 +1,23 @@
+{
+  "name": "react-native-saveuserinfo",
+  "version": "0.1.0",
+  "description": "存在个人信息，公司需求",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WangZiXiao-ChenDu/react-native-saveuserinfo.git"
+  },
+  "keywords": [
+    "userInfo",
+    "react-native"
+  ],
+  "author": "WangZiXiao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WangZiXiao-ChenDu/react-native-saveuserinfo/issues"
+  },
+  "homepage": "https://github.com/WangZiXiao-ChenDu/react-native-saveuserinfo#readme"
+}
