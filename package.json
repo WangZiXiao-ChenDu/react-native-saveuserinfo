@@ -1,6 +1,6 @@
 {
   "name": "react-native-saveuserinfo",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "存在个人信息，公司需求",
   "main": "index.js",
   "scripts": {
